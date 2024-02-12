@@ -60,8 +60,8 @@ This resource allows you to use the following specialized document areas detecti
 
 #### Compatibility
 
-- Aspose.OCR for Java or later
-- Aspose.OCR for Python via Java or later
+- Aspose.OCR for Java 24.2.0 or later
+- Aspose.OCR for Python via Java 24.2.0 or later
 
 ### Smart image processing (aspose-ocr-advanced-preprocessing-v1)
 
@@ -72,8 +72,8 @@ This resource allows you to use advanced automated image preprocessing filters t
 
 #### Compatibility
 
-- Aspose.OCR for Java or later
-- Aspose.OCR for Python via Java or later
+- Aspose.OCR for Java 24.2.0 or later
+- Aspose.OCR for Python via Java 24.2.0 or later
 
 ### Cyrillic text recognition (aspose-ocr-cyrillic-v1)
 
@@ -81,8 +81,8 @@ This recognition model allows to to extract Cyrillic characters from images.
 
 #### Compatibility
 
-- Aspose.OCR for Java or later
-- Aspose.OCR for Python via Java or later
+- Aspose.OCR for Java 24.2.0 or later
+- Aspose.OCR for Python via Java 24.2.0 or later
 
 ### Chinese text recognition (aspose-ocr-chinese-v1)
 
@@ -90,8 +90,8 @@ This recognition model allows to to extract Chinese characters from images.
 
 #### Compatibility
 
-- Aspose.OCR for Java or later
-- Aspose.OCR for Python via Java or later
+- Aspose.OCR for Java 24.2.0 or later
+- Aspose.OCR for Python via Java 24.2.0 or later
 
 ### Hindi text recognition (aspose-ocr-hindi-v1)
 
@@ -99,8 +99,8 @@ This recognition model allows to to extract Hindi (Devanagari) characters from i
 
 #### Compatibility
 
-- Aspose.OCR for Java or later
-- Aspose.OCR for Python via Java or later
+- Aspose.OCR for Java 24.2.0 or later
+- Aspose.OCR for Python via Java 24.2.0 or later
 
 ### Handwritten text recognition (aspose-ocr-handwriting-v1)
 
@@ -108,8 +108,8 @@ This recognition model allows to to extract handwritten text from images.
 
 #### Compatibility
 
-- Aspose.OCR for Java or later
-- Aspose.OCR for Python via Java or later
+- Aspose.OCR for Java 24.2.0 or later
+- Aspose.OCR for Python via Java 24.2.0 or later
 
 ### Sparse text recognition (aspose-ocr-text-in-wild-v1)
 
@@ -117,12 +117,5 @@ This recognition model allows to extract content from street photos and other im
 
 #### Compatibility
 
-- Aspose.OCR for Java or later
-- Aspose.OCR for Python via Java or later
-
-## Learn more
-
-- [Product pages](https://products.aspose.com/ocr/)
-- [Documentation](https://docs.aspose.com/ocr/)
-- [Blog](https://blog.aspose.com/category/ocr/)
-- [Free Support](https://forum.aspose.com/c/ocr)
+- Aspose.OCR for Java 24.2.0 or later
+- Aspose.OCR for Python via Java 24.2.0 or later
