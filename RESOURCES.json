@@ -1,0 +1,54 @@
+{
+  "actual": [
+    {
+      "file": "aspose-ocr-advanced-preprocessing-v1"
+    },
+    {
+      "file": "aspose-ocr-advanced-recognition-v1"
+    },
+    {
+      "file": "aspose-ocr-chinese-v1"
+    },
+    {
+      "file": "aspose-ocr-cyrillic-v1"
+    },
+    {
+      "file": "aspose-ocr-document-structure-detection-v1"
+    },
+    {
+      "file": "aspose-ocr-handwriting-v1"
+    },
+    {
+      "file": "aspose-ocr-hindi-v1"
+    },
+    {
+      "file": "aspose-ocr-text-in-wild-v1"
+    }
+  ],
+  "archive": [
+    {
+      "file": "aspose-ocr-advanced-preprocessing-v1"
+    },
+    {
+      "file": "aspose-ocr-advanced-recognition-v1"
+    },
+    {
+      "file": "aspose-ocr-chinese-v1"
+    },
+    {
+      "file": "aspose-ocr-cyrillic-v1"
+    },
+    {
+      "file": "aspose-ocr-document-structure-detection-v1"
+    },
+    {
+      "file": "aspose-ocr-handwriting-v1"
+    },
+    {
+      "file": "aspose-ocr-hindi-v1"
+    },
+    {
+      "file": "aspose-ocr-text-in-wild-v1"
+    }
+  ]
+}
