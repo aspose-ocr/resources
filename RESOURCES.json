@@ -52,6 +52,9 @@
     },
     {
       "file": "aspose-ocr-text-in-wild-v1"
+    },
+	{
+      "file": "aspose-ocr-arabic-v1"
     }
   ]
 }
