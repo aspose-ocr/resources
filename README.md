@@ -121,14 +121,21 @@ This recognition model allows to to extract Hindi (Devanagari) characters from i
 - Aspose.OCR for Python via Java 24.2.0 or later
 - Aspose.OCR for C++ 24.4.0 or later
 
-### Arabic text recognition (aspose-ocr-arabic-v1)
+### Arabic, Persian and Urdu text recognition (aspose-ocr-arabic-v1)
 
-This recognition model allows to to extract Arabic characters from images. It also supports mixed texts in Arabic and English.
+This recognition model allows to to extract the following texts:
+
+- Arabic
+- Persian (Farsi)
+- Uyghur
+- Urdu
+
+The model also supports texts in mixed alphabets (the mix of national characters and English).
 
 #### Compatibility
 
-- Aspose.OCR for .NET 24.4.0 or later
-- Aspose.OCR for Java 24.4.0 or later
+- Aspose.OCR for .NET 24.4.2 or later
+- Aspose.OCR for Java 24.4.1 or later
 
 ### Handwritten text recognition (aspose-ocr-handwriting-v1)
 
