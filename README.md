@@ -49,7 +49,11 @@ This resource allows you to choose between the core document region detection al
 
 #### Compatibility
 
+- Aspose.OCR for .NET 24.3.0 or later
+- Aspose.OCR for Python via .NET 24.3.0
+- Aspose.OCR for Java 24.2.0 or later
 - Aspose.OCR for Python via Java 24.2.0 or later
+- Aspose.OCR for C++ 24.4.0 or later
 
 ### Advanced OCR models (aspose-ocr-advanced-recognition-v1)
 
@@ -60,8 +64,11 @@ This resource allows you to use the following specialized document areas detecti
 
 #### Compatibility
 
+- Aspose.OCR for .NET 24.3.0 or later
+- Aspose.OCR for Python via .NET 24.3.0
 - Aspose.OCR for Java 24.2.0 or later
 - Aspose.OCR for Python via Java 24.2.0 or later
+- Aspose.OCR for C++ 24.4.0 or later
 
 ### Smart image processing (aspose-ocr-advanced-preprocessing-v1)
 
@@ -72,8 +79,11 @@ This resource allows you to use advanced automated image preprocessing filters t
 
 #### Compatibility
 
+- Aspose.OCR for .NET 24.3.0 or later
+- Aspose.OCR for Python via .NET 24.3.0
 - Aspose.OCR for Java 24.2.0 or later
 - Aspose.OCR for Python via Java 24.2.0 or later
+- Aspose.OCR for C++ 24.4.0 or later
 
 ### Cyrillic text recognition (aspose-ocr-cyrillic-v1)
 
@@ -81,8 +91,11 @@ This recognition model allows to to extract Cyrillic characters from images.
 
 #### Compatibility
 
+- Aspose.OCR for .NET 24.3.0 or later
+- Aspose.OCR for Python via .NET 24.3.0
 - Aspose.OCR for Java 24.2.0 or later
 - Aspose.OCR for Python via Java 24.2.0 or later
+- Aspose.OCR for C++ 24.4.0 or later
 
 ### Chinese text recognition (aspose-ocr-chinese-v2)
 
@@ -90,8 +103,11 @@ This recognition model allows to to extract Chinese characters from images.
 
 #### Compatibility
 
+- Aspose.OCR for .NET 24.3.0 or later
+- Aspose.OCR for Python via .NET 24.3.0
 - Aspose.OCR for Java 24.2.0 or later
 - Aspose.OCR for Python via Java 24.2.0 or later
+- Aspose.OCR for C++ 24.4.0 or later
 
 ### Hindi text recognition (aspose-ocr-hindi-v1)
 
@@ -99,8 +115,27 @@ This recognition model allows to to extract Hindi (Devanagari) characters from i
 
 #### Compatibility
 
+- Aspose.OCR for .NET 24.3.0 or later
+- Aspose.OCR for Python via .NET 24.3.0
 - Aspose.OCR for Java 24.2.0 or later
 - Aspose.OCR for Python via Java 24.2.0 or later
+- Aspose.OCR for C++ 24.4.0 or later
+
+### Arabic, Persian and Urdu text recognition (aspose-ocr-arabic-v1)
+
+This recognition model allows to to extract the following texts:
+
+- Arabic
+- Persian (Farsi)
+- Uyghur
+- Urdu
+
+The model also supports texts in mixed alphabets (the mix of national characters and English).
+
+#### Compatibility
+
+- Aspose.OCR for .NET 24.4.2 or later
+- Aspose.OCR for Java 24.4.1 or later
 
 ### Handwritten text recognition (aspose-ocr-handwriting-v1)
 
@@ -108,6 +143,8 @@ This recognition model allows to to extract handwritten text from images.
 
 #### Compatibility
 
+- Aspose.OCR for .NET 24.3.0 or later
+- Aspose.OCR for Python via .NET 24.3.0
 - Aspose.OCR for Java 24.2.0 or later
 - Aspose.OCR for Python via Java 24.2.0 or later
 
@@ -117,5 +154,7 @@ This recognition model allows to extract content from street photos and other im
 
 #### Compatibility
 
+- Aspose.OCR for .NET 24.3.0 or later
+- Aspose.OCR for Python via .NET 24.3.0
 - Aspose.OCR for Java 24.2.0 or later
 - Aspose.OCR for Python via Java 24.2.0 or later
