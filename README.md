@@ -84,7 +84,7 @@ This recognition model allows to to extract Cyrillic characters from images.
 - Aspose.OCR for Java 24.2.0 or later
 - Aspose.OCR for Python via Java 24.2.0 or later
 
-### Chinese text recognition (aspose-ocr-chinese-v1)
+### Chinese text recognition (aspose-ocr-chinese-v2)
 
 This recognition model allows to to extract Chinese characters from images.
 
