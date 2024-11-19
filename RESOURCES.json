@@ -15,6 +15,9 @@
     {
       "file": "aspose-ocr-cyrillic-v1"
     },
+	{
+      "file": "aspose-ocr-cyrillic-v2"
+    },
     {
       "file": "aspose-ocr-document-structure-detection-v1"
     },
@@ -23,6 +26,9 @@
     },
     {
       "file": "aspose-ocr-hindi-v1"
+    },
+	 {
+      "file": "aspose-ocr-hindi-v2"
     },
     {
       "file": "aspose-ocr-text-in-wild-v1"
@@ -35,6 +41,15 @@
     },
     {
       "file": "aspose-ocr-japanese-v1"
+    },
+	{
+      "file": "aspose-ocr-tamil-v1"
+    },
+	{
+      "file": "aspose-ocr-telugu-v1"
+    },
+	{
+      "file": "aspose-ocr-kannada-v1"
     }
   ],
   "archive": [
