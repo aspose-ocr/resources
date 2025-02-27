@@ -50,7 +50,10 @@
     },
 	{
       "file": "aspose-ocr-kannada-v1"
-    }
+    },
+	{
+		"file": "aspose-ocr-language-classification-v1"
+	}
   ],
   "archive": [
     {
