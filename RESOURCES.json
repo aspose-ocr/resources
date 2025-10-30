@@ -53,6 +53,15 @@
     },
 	{
 		"file": "aspose-ocr-language-classification-v1"
+	},
+	{
+		"file": "aspose-ocr-formula-det-v1"
+	},
+	{
+		"file": "aspose-ocr-formula-rec1-v1"
+	},
+	{
+		"file": "aspose-ocr-formula-rec2-v1"
 	}
   ],
   "archive": [
