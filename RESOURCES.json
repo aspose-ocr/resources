@@ -65,6 +65,9 @@
 	},
 	{
 		"file": "aspose-ocr-table-det-v1"
+	},
+	{
+		"file": "aspose-ocr-doc-type-det-v1"
 	}
   ],
   "archive": [
